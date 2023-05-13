@@ -1,7 +1,7 @@
-import 'package:example/page.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
-import 'package:preload_page_view/preload_page_view.dart';
+import 'package:tavsta_preload_page_view/tavsta_preload_page_view.dart';
+
+import 'page.dart';
 
 void main() {
   runApp(MyApp());
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
 }
 
 class PreloadPageViewDemo extends StatefulWidget {
-  PreloadPageViewDemo({Key key}) : super(key: key);
+  PreloadPageViewDemo({Key? key}) : super(key: key);
 
   @override
   _PreloadPageViewState createState() => _PreloadPageViewState();

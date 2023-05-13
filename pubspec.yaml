@@ -1,10 +1,10 @@
-name: preload_page_view
+name: tavsta_preload_page_view
 description: A pre-load PageView widget which you can use it to preload one page before and after current page.
-version: 0.1.6
+version: 1.0.0
 homepage: https://github.com/Neil-Gu/preload_page_view
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
