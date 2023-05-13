@@ -1,7 +1,7 @@
 name: tavsta_preload_page_view
 description: A pre-load PageView widget which you can use it to preload one page before and after current page.
-version: 1.0.0
-homepage: https://github.com/Neil-Gu/preload_page_view
+version: 1.0.1
+homepage: https://github.com/tavsta/preload_page_view
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

@@ -1,4 +1,4 @@
-library preload_page_view;
+library tavsta_preload_page_view;
 
 import 'dart:async';
 import 'dart:math' as math;

@@ -88,7 +88,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0"
-  preload_page_view:
+  tavsta_preload_page_view:
     dependency: "direct main"
     description:
       path: ".."
